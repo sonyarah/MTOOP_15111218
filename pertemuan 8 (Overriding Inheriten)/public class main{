@@ -1,0 +1,7 @@
+public class main{
+	
+	public static void main (String[]args){
+	Sonya sonya = new Sonya();
+	sonya.printNama();
+	}
+}
